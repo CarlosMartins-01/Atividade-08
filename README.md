@@ -1,16 +1,16 @@
 # Atividade 008: Implementar o diagrama de classes
 
-> Ddisciplina de Laboratório de Programação de Computadores I
+Disciplina Laboratório de Programação de Computadores I
+> 
+> Carlos Martins - cedsm.snf20@uea.edu.br
+> 
+> Daniele Simas - dsg.snf20@uea.edu.br
+> 
+> Dayvson Silva - ddss.snf19@uea.edu.br
 >
-> Carlos - cedsm.snf20@uea.edu.br
+> Diógeles Tamaturgo - ddst.snf20@uea.edu.br
 > 
-> Daniele
-> 
-> Dayvson dos Santos Silva - ddss.snf19@uea.edu.br
->
-> Diógeles
-> 
-> Elikson
+> Elikson Tavares - ebt.snf19@uea.edu.br
 
 ### Atividade 
 Utilizando a diferença entre associação, agregação e composição, codifique o diagrama de classes em anexo:
@@ -32,4 +32,4 @@ Equipe: 5 pessoas escolhidas durante a aula
 Entregável: código-fonte no github
 
 ### Diagrama de classes
-![](class-diagram.png)
+![](img/class-diagram.png)
