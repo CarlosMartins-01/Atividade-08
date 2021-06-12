@@ -1,8 +1,6 @@
 # Atividade 008: Implementar o diagrama de classes
 
-> Ddisciplina de Laboratório de Programação de Computadores I
->
-> Carlos
+> Carlos - cedsm.snf20@uea.edu.br
 > 
 > Daniele
 > 
@@ -15,8 +13,6 @@
 ### Atividade 
 Utilizando a diferença entre associação, agregação e composição, codifique o diagrama de classes em anexo:
 - use a referência: https://www.codeproject.com/Articles/330447/Understanding-Association-Aggregation-and-Composit
-
-Atividade 08 da 
 
 Utilizando a diferença entre associação, agregação e composição, codifique o diagrama de classes em anexo:
 - use a referência: https://www.codeproject.com/Articles/330447/Understanding-Association-Aggregation-and-Composit
