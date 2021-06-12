@@ -1,8 +1,8 @@
 # Atividade 008: Implementar o diagrama de classes
 
-> Disciplina de Laboratório de Programação de Computadores I
+> Ddisciplina de Laboratório de Programação de Computadores I
 >
-> Carlos
+> Carlos - cedsm.snf20@uea.edu.br
 > 
 > Daniele
 > 
@@ -32,4 +32,4 @@ Equipe: 5 pessoas escolhidas durante a aula
 Entregável: código-fonte no github
 
 ### Diagrama de classes
-![](./img/class-diagram.png)
+![](class-diagram.png)
