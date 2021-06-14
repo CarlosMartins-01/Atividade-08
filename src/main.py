@@ -3,6 +3,8 @@ from teacher import Teacher
 from departament import Departament
 from university import University
 
+"""Main"""
+
 
 def main():
     dc1 = Discipline('Matemática Discreta', '001')

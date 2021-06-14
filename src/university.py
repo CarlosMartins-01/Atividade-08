@@ -1,3 +1,6 @@
+"""University Class"""
+
+
 class University:
     def __init__(self, university_id: str, name: str, departments: list):
         self.id = university_id

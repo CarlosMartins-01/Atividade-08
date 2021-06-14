@@ -1,3 +1,6 @@
+"""Discipline Class"""
+
+
 class Discipline:
     def __init__(self, name, discipline_id):
         self.name = name

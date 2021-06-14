@@ -1,3 +1,7 @@
+
+"""Departament Class"""
+
+
 class Departament:
     def __init__(self, department_id: str, name: str, teachers: list):
         self.id = department_id
