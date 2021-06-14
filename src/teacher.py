@@ -8,4 +8,4 @@ class Teacher:
         self.id = teacher_id
 
     def __str__(self):
-        return 'Nome: ' + str(self.name) + ', Discipline: ' + str(self.discipline.name) + ', Id: ' + str(self.id) + '\n'
+        return 'Teacher Name: ' + str(self.name) + ', Discipline: ' + str(self.discipline.name) + ', Id: ' + str(self.id) + '\n'

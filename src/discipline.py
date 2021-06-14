@@ -7,4 +7,4 @@ class Discipline:
         self.id = discipline_id
 
     def __str__(self):
-        return 'Nome: ' + str(self.name) + ', Id: ' + str(self.id) + '\n'
+        return 'Discipline Name: ' + str(self.name) + ', Id: ' + str(self.id) + '\n'
