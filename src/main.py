@@ -1,20 +1,18 @@
-from src import discipline, teacher
+from discipline import Discipline
+from teacher import Teacher
 from departament import Departament
 from university import University
 
-disciplines = []
-disciplines_names = ['Matemática Discreta', 'Fundamentos de Sistemas de Informação', 'Cálculo']
-
-teachers = []
-teachers_names = ['Elloá', 'Ricardo', 'Silvia']
-
 
 def main():
-    for i in range(len(disciplines_names)):
-        disciplines.append(discipline.Discipline(disciplines_names[i], i + 1))
+    dc1 = Discipline('Matemática Discreta', '001')
+    dc2 = Discipline('Cálculo', '002')
 
-    for i in range(len(teachers_names)):
-        teachers.append(teacher.Teacher(teachers_names[i], disciplines[i], i + 1))
+    t1 = Teacher('Elloá', dc1, '001')
+    t2 = Teacher('Ricardo', dc2, '002')
+    t3 = Teacher('Jucimar jr', dc2, '003')
+
+    teachers = [t1, t2, t3]
 
     d1 = Departament('001', 'Computação', teachers)
     d2 = Departament('002', 'Estatística', teachers)
