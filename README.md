@@ -1,6 +1,6 @@
 # Atividade 008: Implementar o diagrama de classes
 
-Disciplina Laboratório de Programação de Computadores I
+Disciplina: Laboratório de Programação de Computadores I
 > 
 > Carlos Martins - cedsm.snf20@uea.edu.br
 > 
@@ -12,11 +12,10 @@ Disciplina Laboratório de Programação de Computadores I
 > 
 > Elikson Tavares - ebt.snf19@uea.edu.br
 
-### Atividade 
+
+### Atividade
 Utilizando a diferença entre associação, agregação e composição, codifique o diagrama de classes em anexo:
 - use a referência: https://www.codeproject.com/Articles/330447/Understanding-Association-Aggregation-and-Composit
-
-Atividade 08 da 
 
 Utilizando a diferença entre associação, agregação e composição, codifique o diagrama de classes em anexo:
 - use a referência: https://www.codeproject.com/Articles/330447/Understanding-Association-Aggregation-and-Composit
@@ -27,9 +26,6 @@ Utilizando a diferença entre associação, agregação e composição, codifiqu
 - muita atenção na ordem em que as classes deverão ser instanciadas dentro do main.py
 - os .py deverão obedecer o PEP8 e não apresentar warnings ou typos
 
-
-Equipe: 5 pessoas escolhidas durante a aula
-Entregável: código-fonte no github
 
 ### Diagrama de classes
 ![](img/class-diagram.png)
