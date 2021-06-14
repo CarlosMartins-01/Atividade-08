@@ -33,7 +33,7 @@ def main():
         print()
         print()
         print("--- 2 Universidades Cadastradas ----")
-        selected_univ = input("1 - " + u1.name + "\n2 - " + u2.name + "\nDigite o número que deseja visualizar:")
+        selected_univ = input("1 - " + u1.name + "\n2 - " + u2.name + "\n3 - Sobre" + "\nDigite o número que deseja visualizar:")
 
         if  selected_univ == '1':
             print()
@@ -42,6 +42,10 @@ def main():
         elif selected_univ == '2':
             print("-----------------------------------------------------------------------")
             print(u2)
+        elif selected_univ == '3':
+            print("-----------------------------------------------------------------------")
+            print("Desenvolvedores:")
+            print("- Carlos Martins\n- Daniele Simas\n- Dayvson Silva\n- Diógeles Tamaturgo\n- Elikson Tavares")
         else:
             print("selecione um valor válido")
         contin = input("\nDeseja continuar? (s/n):")
